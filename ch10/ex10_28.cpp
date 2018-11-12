@@ -17,6 +17,7 @@
 #include <algorithm>
 #include <vector>
 #include <list>
+#include <iterator>
 
 using std::list;
 using std::copy;
